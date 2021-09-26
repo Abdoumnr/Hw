@@ -1,2 +1,6 @@
 # Hw
-Simpler 
+Main()
+{
+Pritf("hello world");
+Getch();
+}
